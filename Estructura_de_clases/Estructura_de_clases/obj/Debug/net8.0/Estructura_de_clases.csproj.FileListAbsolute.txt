@@ -1,0 +1,14 @@
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\obj\Debug\net8.0\Estructura_de_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\obj\Debug\net8.0\Estructura_de_clases.AssemblyInfoInputs.cache
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\obj\Debug\net8.0\Estructura_de_clases.AssemblyInfo.cs
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\obj\Debug\net8.0\Estructura_de_clases.csproj.CoreCompileInputs.cache
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\bin\Debug\net8.0\Estructura_de_clases.exe
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\bin\Debug\net8.0\Estructura_de_clases.deps.json
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\bin\Debug\net8.0\Estructura_de_clases.runtimeconfig.json
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\bin\Debug\net8.0\Estructura_de_clases.dll
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\bin\Debug\net8.0\Estructura_de_clases.pdb
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\obj\Debug\net8.0\Estructura_de_clases.dll
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\obj\Debug\net8.0\refint\Estructura_de_clases.dll
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\obj\Debug\net8.0\Estructura_de_clases.pdb
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\obj\Debug\net8.0\Estructura_de_clases.genruntimeconfig.cache
+C:\Users\Dienely Frias\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\4to Cuatrimestre\Programacion 3\Estructura_de_clases\Estructura_de_clases\obj\Debug\net8.0\ref\Estructura_de_clases.dll
